@@ -1,4 +1,4 @@
-# Dependency directories
+# .gitignore
 node_modules/
 
 # dotenv environment variables file
